@@ -1,5 +1,8 @@
 test
-foo
+foo(lorem ipsum)
 bar
 asfd
-:(
+:)
+
+:P
+LOL
